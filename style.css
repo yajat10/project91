@@ -1,0 +1,26 @@
+.body_background{
+        background-image: url("https://cdn.pixabay.com/photo/2016/05/24/16/48/mountains-1412683__340.png");
+        background-position: center;
+        background-size: cover;
+}
+.player1_input{
+        border-radius: 30px;
+}
+#button1{
+        background-color: aqua;
+}
+.main-div{
+        background: white;
+        padding: 10px;
+        float: none;
+        border-radius: 15px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
